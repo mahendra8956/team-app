@@ -1,0 +1,14 @@
+.userlist {
+  margin: 30px;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+#usertype {
+  color: rgb(138, 180, 190);
+}
